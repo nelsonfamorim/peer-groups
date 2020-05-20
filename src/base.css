@@ -22,7 +22,7 @@ button {
 
 #root {
   background-color: green;
-  background-image: url('poker-table-background.jpg');
+  background-image: url('https://uploads.codesandbox.io/uploads/user/d20a3f7b-a068-4d55-ae4d-1b03547ca705/j9sR-poker-table-background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   position: fixed;
