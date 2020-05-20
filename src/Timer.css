@@ -1,0 +1,32 @@
+.Timer {
+  padding: 20px;
+  position: absolute;
+  left: 50%;
+  top: 50px;
+  text-align: center;
+  transform: translateX(-50%);
+}
+
+.Timer-numbers {
+  color: white;
+  font-size: 40px;
+  margin-bottom: 15px;
+  text-shadow: 2px 2px 2px black;
+}
+
+.Timer-actionButton {
+  cursor: url('https://uploads.codesandbox.io/uploads/user/b3e56831-8b98-4fee-b941-0e27f39883ab/Ad1_-cursor.png') 39 39, auto;
+  box-shadow: 1px 1px 2px black;
+  border-radius: 2px;
+  font-size: 16px;
+  font-weight: 400;
+  width: 80px;
+  padding: 8px;
+  appearance: none;
+  border: none;
+  background: white;
+}
+
+.Timer-actionButton-margin {
+  margin-left: 20px;
+}
